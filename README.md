@@ -14,6 +14,7 @@ A simple and responsive calculator application built using **React**. This proje
 
 - **React**
 - **Sass**
+- **Bootstrap**
 
 ## 📦 Installation
 
